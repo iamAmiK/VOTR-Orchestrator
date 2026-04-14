@@ -6,6 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-service-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-agent_stack-1C3C3C?style=for-the-badge)](https://www.langchain.com/)
 [![VOTR Router](https://img.shields.io/badge/Depends_on-VOTR-blue?style=for-the-badge)](https://github.com/iamAmiK/VOTR)
 [![MCP](https://img.shields.io/badge/MCP-compatible-6f42c1?style=for-the-badge)](https://modelcontextprotocol.io/)
 
