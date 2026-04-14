@@ -1,0 +1,31 @@
+# MCP Orchestrator configuration
+# Override any value here; unset values use the defaults from OrchestratorConfig.
+
+# ── MCP-Router ───────────────────────────────────────────────────────────────
+router_url: "http://localhost:8765"
+router_timeout_seconds: 30.0
+
+# ── LLM (GPT-4o) ─────────────────────────────────────────────────────────────
+openai_api_key_env: "OPENAI_API_KEY"
+llm_model: "gpt-4o"
+llm_temperature: 0.0
+
+# ── Agent execution ───────────────────────────────────────────────────────────
+max_agent_iterations: 10
+verbose: true
+
+# ── MCP tool execution ────────────────────────────────────────────────────────
+mcp_tool_timeout_seconds: 30.0
+
+# ── Session ───────────────────────────────────────────────────────────────────
+# Maximum conversation turns kept in memory per session
+max_history_turns: 20
+
+# ── Server registry ───────────────────────────────────────────────────────────
+# Path to the JSON file that stores server connection details.
+# Relative paths are resolved from the Orchestrator project root.
+registry_path: "./data/server_registry.json"
+
+# ── API server ────────────────────────────────────────────────────────────────
+api_host: "0.0.0.0"
+api_port: 8766
