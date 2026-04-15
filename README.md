@@ -97,6 +97,12 @@ Single-turn request:
 python cli.py ask "List my open GitHub pull requests"
 ```
 
+Multi-turn request:
+
+```bash
+python cli.py ask "Fetch the historical data from Bloomberg, commit that csv into my Github repo BLPAPI and then push it. "
+```
+
 Register MCP server over stdio:
 
 ```bash
