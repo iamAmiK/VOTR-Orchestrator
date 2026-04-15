@@ -9,6 +9,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-agent_stack-1C3C3C?style=for-the-badge)](https://www.langchain.com/)
 [![VOTR Router](https://img.shields.io/badge/Depends_on-VOTR-blue?style=for-the-badge)](https://github.com/iamAmiK/VOTR)
 [![MCP](https://img.shields.io/badge/MCP-compatible-6f42c1?style=for-the-badge)](https://modelcontextprotocol.io/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-assets-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/a13awd/VOTR)
 
 </div>
 
