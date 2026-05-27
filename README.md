@@ -14,7 +14,7 @@
 </div>
 
 VOTR-Orchestrator is the companion execution harness for VOTR.  
-It takes user prompts, decomposes them into routing hops, calls the VOTR router to retrieve tools, wraps those tools for agent use, and executes them in a production-style multi-step tool-calling loop.
+It takes user prompts, decomposes them into routing hops, calls the VOTR router to retrieve tools, wraps those tools for agent use and executes them in a production-style multi-step tool-calling loop.
 
 ---
 
